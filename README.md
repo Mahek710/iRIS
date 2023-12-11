@@ -60,6 +60,6 @@ Give the RelTR model a few seconds to predict the Scene Graph for your input que
 Their search results are displayed at the bottom of the page as thumbnails of matching search results when the user selects a node and edge. 
 
 ### Authors
-Aniruddha Prashant Deshpande
-Mahek Mishra
-Tanvi Kaple
+* Aniruddha Prashant Deshpande [Github Profile](https://github.com/aniruddhapdeshpande99)
+* Mahek Mishra [Github Profile](https://github.com/Mahek710)
+* Tanvi Kaple [Github Profile](https://github.com/tkaple)
